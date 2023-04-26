@@ -11519,7 +11519,7 @@ pre {
 }
 
 .header .container .img-holder img {
-  width: 150%;
+  width: 100%;
   max-width: 620px;
   -webkit-filter: drop-shadow(0 -4px 20px rgba(206, 212, 218, 0.4));
           filter: drop-shadow(0 -4px 20px rgba(206, 212, 218, 0.4));
